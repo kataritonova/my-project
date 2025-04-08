@@ -1,4 +1,3 @@
-let num = 5;
+let num = 8;
 
-num++;
 console.log(num);
